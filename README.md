@@ -3,4 +3,4 @@
 
 Workking Project Link:
 
-[https://somtrip.github.io/Profile-Card/](url)
+[https://somtrip.github.io/Profile-Card/](https://somtrip.github.io/Profile-Card)
